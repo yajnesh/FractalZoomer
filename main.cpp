@@ -1,8 +1,8 @@
 /********************************************
  * 
- * Author: Yajnesh T
+ * Author: Yajnesh Pundi
  * yajnesh.t@gmail.com
- * github.com/yajnesh
+ * github.com/pundiYajnesh
  * 
  * You may freely modify/redistribute any part of this project
 
